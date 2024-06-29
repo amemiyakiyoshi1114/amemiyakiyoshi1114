@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amemiyakiyoshi1114
 - 👀 I’m interested in art 
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on enterprises like tencent
+- 💞️ I’m looking to collaborate on enterprises like 网易
 - 📫 How to reach me QQ：1753980661
 
 <!---
